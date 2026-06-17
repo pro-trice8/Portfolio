@@ -1,8 +1,5 @@
 
 
-# Amine Portfolio Showcase 💻
-
-Welcome to **Amine's Portfolio Showcase**!  
 A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
 It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
 
