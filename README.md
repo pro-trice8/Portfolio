@@ -1,4 +1,4 @@
-![Logo](cp.png)
+
 
 # Amine Portfolio Showcase 💻
 
@@ -7,10 +7,6 @@ A modern **portfolio website** designed to showcase projects, skills, and person
 It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
 
 ---
-
-## Live Demo 🚀
-
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
 
 ---
 
